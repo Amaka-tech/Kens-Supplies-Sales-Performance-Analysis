@@ -125,6 +125,10 @@ This dashboard helps Ken’s Supplies:
 
 ---
 
+![](retail_store1.jpg)
+
+---
+
 ## Live Preview or Demo 📍
 To view the dashboard in Tableau Public, click [here](https://public.tableau.com/app/profile/chiamaka.okonkwo/viz/Kens_Supplies_Dashboard/Dashboard)
 
