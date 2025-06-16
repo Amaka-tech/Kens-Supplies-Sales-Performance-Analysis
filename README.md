@@ -8,7 +8,7 @@ Interactive Tableau dashboard analyzing year-over-year sales, profit, and quanti
 
 
 
-## Project Overview
+## Project Overview 📋
 This Tableau dashboard was created to help **Ken’s Supplies** better understand how their products are performing across different categories, regions, and time periods. The goal is to turn raw data into simple visuals that support smarter business decisions.
 
 
@@ -59,7 +59,7 @@ I used four main datasets for this project, each in CSV format:
 
 
 
-## Data Model & Relationships 🔧
+## Data Model & Relationships 🔗
 All tables were connected using Tableau’s relationship model. These tables were linked using common fields:
 
 - Orders ↔ Products (via Product ID)
@@ -81,7 +81,7 @@ All tables were connected using Tableau’s relationship model. These tables wer
 - Line charts compare 2023 vs. 2022 sales, profits, and quantity by month
 - Highlights highest and lowest performing months using markers
   
-### Subcategory Comparison 📋
+### Subcategory Comparison ↔️
 - Horizontal bar charts for 2023 vs. 2022 sales by product subcategory
 - Split views for profit and loss visualization by segment
   
