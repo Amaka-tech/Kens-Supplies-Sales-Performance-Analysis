@@ -69,6 +69,9 @@ All tables were connected using Tableau’s relationship model. These tables wer
 ---
 
 ## Dashboard Features 📈
+
+![](Kens_Supplies_Dashboard.png)
+
 ### KPI Summary Cards ✅
 - Total Sales: $733.2K (+20.4% vs. PY)
 - Total Profit: $93.4K (+14.2% vs. PY)
@@ -122,4 +125,13 @@ This dashboard helps Ken’s Supplies:
 
 ---
 
+## Live Preview or Demo 📍
+To view the dashboard in Tableau Public, click [here](https://public.tableau.com/app/profile/chiamaka.okonkwo/viz/Kens_Supplies_Dashboard/Dashboard)
 
+---
+
+## Contact 📩
+Created by **Chiamaka I. Okonkwo**
+For questions, feel free to reach out or connect on [<ins>LinkedIn</ins>](https://www.linkedin.com/in/chiamaka-okonkwo42/)
+
+---
