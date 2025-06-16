@@ -25,7 +25,7 @@ Ken’s Supplies aims to improve its understanding of sales performance across p
 
 
 
-## Rationale for the Project 🧠
+## Rationale for the Project 💡
 
 To stay competitive in today’s market, Ken’s Supplies must have a thorough understanding of year-over-year sales performance and product trends. By analyzing key metrics like sales revenue, profit, and quantity sold across various product subcategories, we can identify growth opportunities and address underperforming areas.
 
